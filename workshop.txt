@@ -1,0 +1,11 @@
+version=1
+id=3041383586
+title=Hay Morrones
+description=Hello, you probably never thought it would be fun to attract entire hordes of zombies with a street vendor's car with a megaphone in the best Latam style.
+description=You can find it parked in most places and with just pressing the Q you will be selling fruits and vegetables like the best. Feel like in your neighborhood¡¡
+description=
+description=-----
+description=Hola¡, seguro nunca pensaste que sería divertido atraer hordas enteras de zombies con un auto de vendedor ambulante con megafono al mejor estilo Latam.
+description=  Podrás encontrarlo estacionado en la mayoria de lugares y con solo apretar la Q estarás vendiendo frutas y verduras como el mejor.  Sientete como en tu barrio¡
+tags=Build 41;Food;Models;Realistic;Silly/Fun;Vehicles
+visibility=public
